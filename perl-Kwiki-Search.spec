@@ -16,7 +16,6 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl(Kwiki)
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Enables a plain text search button for searching the content of the pages.
